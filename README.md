@@ -1,5 +1,7 @@
 # CafeInArt
 
+원본 레포 -> https://github.com/Jihyun-Choi/CafeInArt
+
 [![Repository Card](https://widget.realdeveloper.pro/api/card?user=isdiscodead&repo=CafeInArt)](https://github.com/isdiscodead/CafeInArt/)
 
 ---
